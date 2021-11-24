@@ -17,4 +17,4 @@
 
  
 Install ffmpeg, libwebp, and imagemagick before running the bot
-Edit the required value in [`config.js`](https://github.com/briexenv/whatsapp-bot/blob/main/config.js)
+Edit the required value in [`config.js`](https://github.com/briexenv/whatsapp-bot/blob/master/config.js)
